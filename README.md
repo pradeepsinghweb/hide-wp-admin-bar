@@ -12,6 +12,6 @@ i) Download plugin ".zip" file and upload in your WordPress website as new plugi
 ii) Activate this plugin
 iii) After activate, you can manage the plugin settings by clicking on settings link. 
 
-please find setting link by https://www.screencast.com/t/WweyhPPVcbEn OR https://www.screencast.com/t/Ymh6O6EX3lW
+please find setting link in your WordPress website backedn like as https://www.screencast.com/t/WweyhPPVcbEn OR https://www.screencast.com/t/Ymh6O6EX3lW
 
 Best of Luck, if you found any issue with this plugin then you can contact to me by Github OR pradeep.singh.web@gmail.com
